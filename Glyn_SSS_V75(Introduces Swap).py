@@ -572,8 +572,6 @@ time_in_handover = (0)
 
 # Outage Analysis  ewrewwer
 
-# pbhgils comnmentw poej2oidhoiwed
-
 
 i = 0                                                           # UA counter
 ms_df_counter = 0                                               # Set counter to zero

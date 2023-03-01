@@ -1,0 +1,14 @@
+﻿utc_start,utc_end
+2022 Jul 25 00:00:00,2022 Jul 26 23:59:00
+ua_no,ua_name,prev_sat,cur_sat,ho_utc,ua_filename,cur_gw,other_gw
+0,CapeTown,MS11,MS11,None,UA_CapeTown.csv,ANT1,ANT2
+1,Davao,MS12,MS12,None,UA_Davao.csv,ANT1,ANT2
+2,Durban,MS13,MS13,None,UA_Durban.csv,ANT1,ANT2
+3,Edmington,MS14,MS14,None,UA_Edmington.csv,ANT2,ANT1
+4,Halifax,MS15,MS15,None,UA_Halifax.csv,ANT2,ANT1
+5,Hamilton,MS16,MS16,None,UA_Hamilton.csv,ANT2,ANT1
+6,HimachalPradesh,MS21,MS21,None,UA_HimachalPradesh.csv,ANT2,ANT1
+7,Jarkhand,MS22,MS22,None,UA_Jarkhand.csv,ANT2,ANT1
+8,Mindenaa,MS24,MS24,None,UA_Mindenaa.csv,ANT2,ANT1
+9,Pretoria,MS25,MS25,None,UA_Pretoria.csv,ANT2,ANT1
+10,Quito,MS31,MS31,None,UA_Quito.csv,ANT2,ANT1

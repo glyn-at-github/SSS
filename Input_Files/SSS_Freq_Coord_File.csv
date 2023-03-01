@@ -1,0 +1,17 @@
+﻿ua_no,ua_name,altAcquisitionFreq,polarisation,symbolRate
+0,CapeTown,24.000,LHCP,0.45
+1,Davao,22.000,LHCP,0.30
+2,Durban,22.000,LHCP,0.30
+3,Edmington,22.000,LHCP,0.30
+4,Halifax,25.000,RHCP,0.4
+5,Hamilton,25.000,RHCP,0.4
+6,HimachalPradesh,25.000,RHCP,0.4
+7,Jarkhand,25.000,RHCP,0.4
+8,London,21.000,LHCP,0.50
+9,Mindenaa,21.000,LHCP,0.50
+10,Pretoria,21.000,LHCP,0.50
+11,Quebec,21.000,LHCP,0.50
+12,Quito,21.000,LHCP,0.50
+13,Saskatoon,21.000,LHCP,0.50
+14,UtterPradesh,21.000,LHCP,0.50
+15,Zamboanga,21.000,LHCP,0.50

@@ -573,6 +573,7 @@ time_in_handover = (0)
 # Outage Analysis bwiehwilhewoih
 
 
+
 i = 0                                                           # UA counter
 ms_df_counter = 0                                               # Set counter to zero
 ua_outages = pd.DataFrame(uas)                                  # get the UA names

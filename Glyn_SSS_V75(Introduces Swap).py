@@ -570,8 +570,7 @@ d3 = pd.handover_distn.value_counts(ascending=True)
 d3 = pd.DataFrame(d3)
 time_in_handover = (0)
 
-# Outage Analysis bwiehwilhewoih
-
+# Outage Analysisb hoiwehwlkehlkwhelk
 
 
 i = 0                                                           # UA counter
